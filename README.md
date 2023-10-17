@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hey, I'm Matt Burns 👋
+
+I'm a software engineer from the UK specializing in building awesome digital products. You can find some of my code on GitHub, see my experiments on CodePen, and view my experience on LinkedIn. I don't have much availability at the minute but if you would like to get in touch in a consulting capacity, or as a tech advisor, drop me an email and we'll chat!
+
 
 <!--
 **iammattburns/iammattburns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
